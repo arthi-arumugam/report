@@ -1,5 +1,5 @@
 Type: Package
-Package: report
+Package: ExpandedReport
 Title: Automated Reporting of Results and Statistical Models
 Version: 0.5.7.4
 Authors@R:
